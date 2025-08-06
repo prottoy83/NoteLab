@@ -1,16 +1,63 @@
-# notelab
 
-A new Flutter project.
+# NoteLab
 
-## Getting Started
+NoteLab is a simple cross-platform note-taking app designed for creativity and precision. With support for vector ink, pressure sensitivity, and seamless cloud sync, NoteLab lets you capture ideas effortlessly across Android, iOS, Windows, and Linux.
 
-This project is a starting point for a Flutter application.
+## Authors
 
-A few resources to get you started if this is your first Flutter project:
+- [@prottoy83](https://github.com/prottoy83)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+- A4/Letter Sized Page
+- Pen Pressure Sensitivity
+- PDF Export
+- Sync Over Google Drive (Personal)
+- Light/dark mode toggle 
+- Fullscreen mode
+- Cross platform
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Download Flutter SDK from
+
+```bash
+  https://docs.flutter.dev/get-started/install
+```
+
+Build and Run The Project
+
+```bash
+  flutter run
+```
+
+
+## FAQ
+
+#### When will we get the full build?
+
+Honestly, I don't know. I am trying to build it as fast as possible.
+
+#### How do I report bugs?
+
+It'll be updated here as soon as I build a working app.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
